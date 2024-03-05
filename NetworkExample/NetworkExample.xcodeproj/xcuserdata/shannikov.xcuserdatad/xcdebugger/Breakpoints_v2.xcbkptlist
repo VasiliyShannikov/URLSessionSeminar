@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "996080BB-CA6A-497D-8DB6-877BEB8A5A57"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A100CED-3C1C-47E1-AC50-8F2521731C2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkExample/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchData(urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A100CED-3C1C-47E1-AC50-8F2521731C2B - 22a60df84fe1e792"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NetworkExample.NetworkService.fetchData(urlString: Swift.String, completion: (Swift.Result&lt;NetworkExample.ArticleModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NetworkExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/NetworkExample/NetworkExample/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1444">
+               </Location>
+               <Location
+                  uuid = "0A100CED-3C1C-47E1-AC50-8F2521731C2B - 22a60df84fe1e6bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NetworkExample.NetworkService.fetchData(urlString: Swift.String, completion: (Swift.Result&lt;NetworkExample.ArticleModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NetworkExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/NetworkExample/NetworkExample/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "0A100CED-3C1C-47E1-AC50-8F2521731C2B - 22a60df84fe1e6bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NetworkExample.NetworkService.fetchData(urlString: Swift.String, completion: (Swift.Result&lt;NetworkExample.ArticleModel, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NetworkExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shannikov/Desktop/Batch41/NetworkExample/NetworkExample/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
